@@ -79,3 +79,9 @@ html{
     color: white;
     font-size: 20px;
 }
+
+@media(max-width:567px){
+    .container{
+        height: auto;
+    }
+}
